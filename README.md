@@ -56,16 +56,13 @@ npm install
 ```
 
 
+
 ## 📸 Screenshots
 
 <div align="center">
-	<img src="./screenshot/Screenshot 2025-12-06 122631.png" alt="Screenshot 1" width="600" />
+	<img src="./screenshot/Gemini_Generated_Image_bf4gyxbf4gyxbf4g.png" alt="Screenshot Gemini 1" width="600" />
 	<br/>
-	<img src="./screenshot/Screenshot 2025-12-06 122643.png" alt="Screenshot 2" width="600" />
-	<br/>
-	<img src="./screenshot/Screenshot 2025-12-06 124232.png" alt="Screenshot 3" width="600" />
-	<br/>
-	<img src="./screenshot/Screenshot 2025-12-06 124240.png" alt="Screenshot 4" width="600" />
+	<img src="./screenshot/Gemini_Generated_Image_va6ob4va6ob4va6o.png" alt="Screenshot Gemini 2" width="600" />
 </div>
 
 ## 🏃‍♂️ Running the App
