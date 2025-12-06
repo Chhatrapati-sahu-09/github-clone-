@@ -60,9 +60,9 @@ npm install
 ## 📸 Screenshots
 
 <div align="center">
-	<img src="./screenshot/Gemini_Generated_Image_bf4gyxbf4gyxbf4g.png" alt="Screenshot Gemini 1" width="600" />
+	<img src="./screenshot/ss1.png" alt="Screenshot 1" width="600" />
 	<br/>
-	<img src="./screenshot/Gemini_Generated_Image_va6ob4va6ob4va6o.png" alt="Screenshot Gemini 2" width="600" />
+	<img src="./screenshot/ss2.png" alt="Screenshot 2" width="600" />
 </div>
 
 ## 🏃‍♂️ Running the App
